@@ -88,3 +88,8 @@ To make the portfolio more professional, consider adding:
 ---
 
 Built with care and designed for a modern developer portfolio.
+
+## License & Copyright
+
+Made with ❤️ by **Krish Gupta**  
+© 2026 Krish Gupta. All rights reserved.
