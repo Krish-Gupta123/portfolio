@@ -55,30 +55,6 @@ For a local development server, use one of these options:
 
 Then visit `http://localhost:8000`.
 
-## Deploying to Vercel
-
-This project is a static site and is easy to deploy on Vercel.
-
-1. Create a free account at [vercel.com](https://vercel.com)
-2. Click **New Project** and connect your GitHub repository
-3. Select the repository for this portfolio
-4. Set the root directory to the project root (no build command required)
-5. Choose **Framework Preset: Other** or **Static Site**
-6. Click **Deploy**
-
-After deployment, Vercel will provide a live URL. Any future commits to the repository will automatically update the site.
-
-## Suggested Improvements
-
-To make the portfolio more professional, consider adding:
-
-- A professional profile image or avatar
-- Real project links and live demo URLs
-- Project screenshots or GIFs
-- Detailed descriptions of each project’s impact and technologies
-- Resume highlights or award/certification details
-- A downloadable resume link
-
 ## Contact
 
 - **Email**: krishrgupta5@gmail.com
